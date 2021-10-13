@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="47px" viewBox="0 0 47 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>glass-feature-2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Glass-Walls" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alur_web_glass_overview" transform="translate(-451.000000, -4321.000000)" fill="#1E306E">
+            <g id="values" transform="translate(-1.000000, 4076.000000)">
+                <g id="Group-5" transform="translate(106.000000, 224.000000)">
+                    <g id="feature_2" transform="translate(246.000000, 0.000000)">
+                        <g id="Group-20" transform="translate(52.000000, 16.000000)">
+                            <g id="glass-feature-2" transform="translate(43.000000, 0.000000)">
+                                <g id="Page-1" transform="translate(5.000000, 5.000000)">
+                                    <path d="M16,47 L41,47 L41,0 L16,0 L16,47 Z M18,45 L39,45 L39,2 L18,2 L18,45 Z" id="Fill-1"></path>
+                                    <polygon id="Fill-2" points="42.0003 16.0004 42.0003 18.0004 45.0003 18.0004 45.0003 38.9994 42.0003 38.9994 42.0003 40.9994 46.9993 40.9994 46.9993 16.0004"></polygon>
+                                    <polygon id="Fill-3" points="0 16.0004 0 40.9994 15 40.9994 15 38.9994 2 38.9994 2 18.0004 15 18.0004 15 16.0004"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

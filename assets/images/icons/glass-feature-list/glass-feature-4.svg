@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="49px" viewBox="0 0 49 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>glass-feature-4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Glass-Walls" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alur_web_glass_overview" transform="translate(-942.000000, -4320.000000)" fill="#1E306E">
+            <g id="values" transform="translate(-1.000000, 4076.000000)">
+                <g id="Group-5" transform="translate(106.000000, 224.000000)">
+                    <g id="feature_4" transform="translate(738.000000, 0.000000)">
+                        <g id="Group-20" transform="translate(77.000000, 16.000000)">
+                            <g id="glass-feature-4" transform="translate(18.000000, 0.000000)">
+                                <g id="Page-1" transform="translate(4.000000, 4.000000)">
+                                    <path d="M0,49 L49,49 L49,0 L0,0 L0,49 Z M2,47 L47,47 L47,2 L2,2 L2,47 Z" id="Fill-1"></path>
+                                    <g id="Group-10" transform="translate(12.000000, 13.000000)">
+                                        <path d="M12.3626526,12.3529412 L10.2594947,6.30494118 C9.78075789,4.93252941 9.46244211,3.68611765 9.14412632,2.47058824 L9.07844211,2.47058824 C8.76012632,3.71823529 8.41023158,4.99676471 7.99591579,6.27282353 L5.89149474,12.3529412 L12.3626526,12.3529412 Z M5.56938947,14.8235294 L3.48391579,21 L0.222442105,21 L7.51844211,0 L10.8632842,0 L18.1908632,21 L14.8346526,21 L12.6898105,14.8235294 L5.56938947,14.8235294 Z" id="Fill-2"></path>
+                                        <polygon id="Fill-4" points="21.4736842 21 24 21 24 11.1176471 21.4736842 11.1176471"></polygon>
+                                        <polygon id="Fill-9" points="21.4736842 8.64705882 24 8.64705882 24 6.17647059 21.4736842 6.17647059"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

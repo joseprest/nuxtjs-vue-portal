@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="50px" viewBox="0 0 38 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>calendar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alur_web_home" transform="translate(-586.000000, -3795.000000)" fill="#1E306E">
+            <g id="Footer" transform="translate(0.000000, 3748.000000)">
+                <g id="Group-15">
+                    <g id="Group-6" transform="translate(219.000000, 37.000000)">
+                        <g id="Group-23" transform="translate(358.000000, 0.000000)">
+                            <g id="Group-4">
+                                <g id="calendar" transform="translate(0.000000, 11.000000)">
+                                    <g id="Page-1" transform="translate(10.000000, 0.000000)">
+                                        <path d="M1,47 L1,1 L35,1 L35,35.5 C35,41.8406818 29.7565625,47 23.3125,47 L1,47 Z M23,48 L0,48 L0,0 L36,0 L36,35 C36,42.168 30.168,48 23,48 Z" id="Fill-1" stroke="#1E306E"></path>
+                                        <path d="M14.52,18 C13.1299408,18 12,19.1315976 12,20.52 C12,21.9100591 13.1299408,23.04 14.52,23.04 C15.9100591,23.04 17.04,21.9100591 17.04,20.52 C17.04,19.1315976 15.9100591,18 14.52,18 M14.521,24.042 C12.58,24.042 11,22.463 11,20.521 C11,18.58 12.58,17 14.521,17 C16.462,17 18.042,18.58 18.042,20.521 C18.042,22.463 16.462,24.042 14.521,24.042" id="Fill-3" stroke="#1E306E" stroke-width="0.5"></path>
+                                        <path d="M22.52,26 C21.1299408,26 20,27.1315976 20,28.52 C20,29.9100591 21.1299408,31.04 22.52,31.04 C23.9100591,31.04 25.04,29.9100591 25.04,28.52 C25.04,27.1315976 23.9100591,26 22.52,26 M22.52,32.04 C20.5795513,32.04 19,30.4614484 19,28.52 C19,26.5795513 20.5795513,25 22.52,25 C24.4604487,25 26.04,26.5795513 26.04,28.52 C26.04,30.4614484 24.4604487,32.04 22.52,32.04" id="Fill-5" stroke="#1E306E" stroke-width="0.5"></path>
+                                        <polygon id="Fill-7" stroke="#1E306E" points="11.414 32.04 11 31.626 24.37 18.256 24.784 18.67"></polygon>
+                                        <polygon id="Fill-9" points="1 13.5 35 13.5 35 12 1 12"></polygon>
+                                        <polygon id="Fill-11" points="5 38 30 38 30 37 5 37"></polygon>
+                                        <polygon id="Fill-12" points="5 42 30 42 30 41 5 41"></polygon>
+                                        <polygon id="Fill-14" points="5.09 9.5 6.01 9.5 6.01 4.8 7.61000013 4.8 7.61000013 4 3.5 4 3.5 4.8 5.09 4.8"></polygon>
+                                        <path d="M9.40002441,7 L10.7260244,7 L10.0440244,5.2 L9.40002441,7 Z M11.538,9.5 L12.472,9.5 L10.767,4 L9.355,4 L7.675,9.5 L8.552,9.5 L8.98,7.96 L11.075,7.96 L11.538,9.5 Z" id="Fill-16"></path>
+                                        <polygon id="Fill-18" points="16.329 9.5 17.308 9.5 15.72 6.68 17.22 4 16.264 4 15.244 6.04 14.904 6.04 14.032 4 13.06 4 14.55 6.716 13 9.5 13.959 9.5 14.904 7.4 15.236 7.4"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

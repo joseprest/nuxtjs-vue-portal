@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="24px" viewBox="0 0 16 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-design-blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 24 16 24 16 0 0 0"></polygon>
+    </defs>
+    <g id="Glass-Walls" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alur_web_glass_overview" transform="translate(-894.000000, -3694.000000)">
+            <g id="Features" transform="translate(-1.000000, 1781.000000)">
+                <g id="block1" transform="translate(104.000000, 1518.000000)">
+                    <g id="Group-17" transform="translate(790.000000, 72.000000)">
+                        <g id="ic-design-blue" transform="translate(1.000000, 323.000000)">
+                            <g id="Group-16">
+                                <path d="M4.5,21.5 C4.5,22.604 3.6045,23.5 2.5,23.5 C1.3955,23.5 0.5,22.604 0.5,21.5 L0.5,8 L2.5,3.5 L4.5,8 L4.5,21.5 Z" id="Stroke-1" stroke="#1E306E" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M0.5,20.5 L4.5,20.5" id="Stroke-3" stroke="#1E306E" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M0.5,18.5 L4.5,18.5" id="Stroke-5" stroke="#1E306E" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Clip-8"></g>
+                                <polygon id="Stroke-7" stroke="#1E306E" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="9.5 23.5 15.5 23.5 15.5 0.5 9.5 0.5"></polygon>
+                                <path d="M9.5,3.5 L11.5,3.5" id="Stroke-9" stroke="#1E306E" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                                <path d="M9.5,7.5 L11.5,7.5" id="Stroke-10" stroke="#1E306E" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                                <path d="M9.5,11.5 L11.5,11.5" id="Stroke-11" stroke="#1E306E" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                                <path d="M9.5,15.5 L11.5,15.5" id="Stroke-12" stroke="#1E306E" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                                <path d="M9.5,19.5 L11.5,19.5" id="Stroke-13" stroke="#1E306E" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                                <path d="M0.5,8 L4.5,8" id="Stroke-14" stroke="#1E306E" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                                <path d="M2.5,8 L2.5,18.5" id="Stroke-15" stroke="#1E306E" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                            </g>
+                            <path d="M3,18 L4,18" id="Stroke-6" stroke="#1E306E"></path>
+                            <path d="M3,20 L4,20" id="Stroke-7" stroke="#1E306E"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

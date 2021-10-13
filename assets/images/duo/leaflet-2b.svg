@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="219" height="92" viewBox="0 0 219 92">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#2366A8" d="M.401 16.376h148.185V0H.401z"/>
+        <path fill="#8FC2E9" d="M150.282 16.376h68.56V0h-68.56z"/>
+        <g stroke-width=".805">
+            <path stroke="#2366A8" d="M.805 20.29v5.013h147.371V20.29"/>
+            <path stroke="#525252" d="M.805 40.384v5.013H218.44v-5.013"/>
+            <path stroke="#8FC2E9" d="M150.685 20.29v5.013h67.755V20.29"/>
+        </g>
+        <path fill="#525252" d="M107.34 45.397l2.283 2.282 2.28-2.282z"/>
+        <path fill="#2366A8" d="M72.213 25.303l2.282 2.282 2.281-2.282z"/>
+        <path fill="#8FC2E9" d="M182.28 25.303l2.283 2.282 2.28-2.282z"/>
+        <text fill="#525252" font-family=".AppleSystemUIFont" font-size="8">
+            <tspan x="51.763" y="79.05">a</tspan>
+        </text>
+        <text fill="#525252" font-family=".AppleSystemUIFont" font-size="9.04">
+            <tspan x="50.068" y="83.667">—</tspan>
+        </text>
+        <text fill="#525252" font-family=".AppleSystemUIFont" font-size="8">
+            <tspan x="51.555" y="91.089">b</tspan>
+        </text>
+        <text fill="#525252" font-family=".AppleSystemUIFont" font-size="8">
+            <tspan x="121.584" y="85.086">1.618... =</tspan>
+        </text>
+        <text fill="#525252" font-family=".AppleSystemUIFont" font-size="8">
+            <tspan x="81.677" y="79.047">a + b</tspan>
+        </text>
+        <text fill="#636466" font-family=".AppleSystemUIFont" font-size="9.04">
+            <tspan x="87.189" y="83.667">—</tspan>
+        </text>
+        <text fill="#525252" font-family=".AppleSystemUIFont" font-size="8">
+            <tspan x="88.885" y="91.089">a</tspan>
+        </text>
+        <text fill="#525252" font-family=".AppleSystemUIFont" font-size="9.04">
+            <tspan x="69.501" y="84.086">=</tspan>
+        </text>
+        <text fill="#525252" font-family=".AppleSystemUIFont" font-size="9.04">
+            <tspan x="111.548" y="84.086">=</tspan>
+        </text>
+        <path fill="#525252" d="M163.73 82.023c.014.003.022.005.03.004.07-.004.141-.005.211-.011a2.42 2.42 0 0 0 1.317-.493c.5-.381.845-.88 1.06-1.466.307-.84.356-1.703.21-2.58a2.466 2.466 0 0 0-.4-1.013c-.255-.364-.587-.595-1.049-.604-.515-.01-.89.232-1.088.708a3.196 3.196 0 0 0-.196.787 11.216 11.216 0 0 0-.094 1.564c-.002 1.016 0 2.031 0 3.045v.06zm1.133-6.7h.295c.011.004.022.008.033.01.457.04.833.241 1.145.568.488.51.721 1.134.805 1.822.015.118.024.24.035.361v.507c-.003.02-.007.038-.009.059-.025.227-.038.458-.075.684a4.05 4.05 0 0 1-.688 1.717c-.588.826-1.38 1.307-2.392 1.413-.093.012-.186.019-.282.028v3.063h-1.168V82.49a6.004 6.004 0 0 1-1.04-.167c-.577-.152-1.103-.399-1.554-.794-.676-.594-1.018-1.358-1.124-2.237-.014-.12-.024-.238-.035-.357v-.543l.008-.052c.025-.233.04-.47.076-.702.082-.505.245-.978.541-1.4.297-.426.684-.725 1.193-.848.127-.03.26-.046.388-.066h.32c.061.01.123.016.185.03.44.078.79.31 1.064.654.105.132.195.274.293.414l-.374.23c-.039-.063-.072-.118-.108-.172-.17-.248-.378-.45-.674-.536-.51-.149-1.033-.017-1.276.596-.1.251-.15.512-.185.778a9.914 9.914 0 0 0-.068 1.472c.01.48.07.952.222 1.41.188.56.494 1.037.99 1.378.347.24.736.37 1.158.434v-.08c.001-1.062-.014-2.124.06-3.185.032-.463.098-.922.224-1.37.127-.445.306-.868.588-1.239.286-.376.643-.649 1.111-.76.104-.024.212-.037.318-.054z"/>
+        <path fill="#2366A8" d="M70.37 38.4h8.25v-8.25h-8.25z"/>
+        <text fill="#FFF" font-family=".AppleSystemUIFont" font-size="6">
+            <tspan x="72.8" y="37.4">a</tspan>
+        </text>
+        <path fill="#8FC2E9" d="M180.437 38.4h8.25v-8.25h-8.25z"/>
+        <text fill="#FFF" font-family=".AppleSystemUIFont" font-size="6">
+            <tspan x="182.8" y="37.4">b</tspan>
+        </text>
+        <path fill="#2366A8" d="M95.707 60.259h8.25v-8.251h-8.25z"/>
+        <text fill="#FFF" font-family=".AppleSystemUIFont" font-size="6">
+            <tspan x="98.2" y="58.75">a</tspan>
+        </text>
+        <path fill="#8FC2E9" d="M115.287 60.259h8.25v-8.251h-8.25z"/>
+        <text fill="#FFF" font-family=".AppleSystemUIFont" font-size="6">
+            <tspan x="117.8" y="59">b</tspan>
+        </text>
+        <text fill="#525252" font-family=".AppleSystemUIFont" font-size="9.04">
+            <tspan x="107.529" y="59.972">+</tspan>
+        </text>
+    </g>
+</svg>

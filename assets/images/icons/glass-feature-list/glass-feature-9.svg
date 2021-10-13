@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="56px" viewBox="0 0 44 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>glass-feature-9</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Glass-Walls" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alur_web_glass_overview" transform="translate(-944.000000, -4488.000000)" fill="#1E306E">
+            <g id="values" transform="translate(-1.000000, 4076.000000)">
+                <g id="Group-5" transform="translate(106.000000, 396.000000)">
+                    <g id="feature_4" transform="translate(738.000000, 0.000000)">
+                        <g id="Group-20" transform="translate(59.000000, 16.000000)">
+                            <g id="glass-feature-9" transform="translate(36.000000, 0.000000)">
+                                <g id="Group-27" transform="translate(6.000000, 0.000000)">
+                                    <polygon id="Fill-1" points="34.437 56 36.363 56 36.363 0 34.437 0"></polygon>
+                                    <polygon id="Fill-2" points="41.27 56 43.196 56 43.196 0 41.27 0"></polygon>
+                                    <g id="Group-11" transform="translate(0.000000, 11.000000)">
+                                        <path d="M1.4141,26.1807 L0.0001,24.7667 C4.2821,20.4847 4.2821,13.5157 0.0001,9.2337 L1.4141,7.8197 C6.4761,12.8817 6.4761,21.1187 1.4141,26.1807 Z" id="Fill-3"></path>
+                                        <path d="M8.4209,33.4443 L7.0069,32.0303 C15.2939,23.7423 15.2939,10.2573 7.0069,1.9703 L8.4209,0.5563 C17.4879,9.6233 17.4879,24.3773 8.4209,33.4443" id="Fill-5"></path>
+                                        <polygon id="Fill-7" points="25.399 18 31.399 18 31.399 16 25.399 16"></polygon>
+                                        <polygon id="Fill-9" points="27.1064 32.707 25.6924 31.293 30.4084 26.576 31.8224 27.99"></polygon>
+                                        <polygon id="Fill-10" points="30.4092 7.4238 25.6922 2.7068 27.1062 1.2928 31.8232 6.0098"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

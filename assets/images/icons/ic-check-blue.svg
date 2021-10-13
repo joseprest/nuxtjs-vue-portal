@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-check-blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dividing-Walls" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="alur_web_dividingWalls_overview" transform="translate(-182.000000, -3387.000000)" stroke="#1E306E" stroke-width="1.04347826">
+            <g id="Features" transform="translate(103.000000, 3101.000000)">
+                <g id="Group-18">
+                    <g id="ic-check-blue" transform="translate(80.000000, 287.000000)">
+                        <polyline id="Stroke-1" points="24.0000522 0 8.86961739 18.7826087 3.65222609 13.5652174"></polyline>
+                        <path d="M18.5459478,12.5156348 C18.6998609,13.1881565 18.7828174,13.8893739 18.7828174,14.6088522 C18.7828174,19.7954609 14.5765565,24.0001565 9.39151304,24.0001565 C4.20281739,24.0001565 0.000208695652,19.7954609 0.000208695652,14.6088522 C0.000208695652,9.42172174 4.20281739,5.21754783 9.39151304,5.21754783 C10.8889043,5.21754783 12.3064696,5.5692 13.5654261,6.19476522" id="Stroke-3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="25px" viewBox="0 0 12 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-stangenzirkel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dividing-Walls" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alur_web_dividingWalls_overview" transform="translate(-182.000000, -3385.000000)" stroke="#1E306E">
+            <g id="Features" transform="translate(103.000000, 3101.000000)">
+                <g id="Group-18">
+                    <g id="Group-17" transform="translate(80.000000, 88.000000)">
+                        <g id="ic-stangenzirkel" transform="translate(0.000000, 197.000000)">
+                            <polygon id="Stroke-1" points="6.73134 0.09904375 0.403406667 0.09904375 0.403406667 22.6045438 4.33334 22.6045438 4.33334 13.9881688 2.96347333 13.9881688 2.96347333 7.09535625 4.33334 7.09535625 4.33334 3.21985625 10.4992067 3.21985625 10.4992067 1.3216375"></polygon>
+                            <polygon id="Stroke-3" points="10.4989867 7.09528437 10.4989867 9.39025312 6.97458667 10.5416906 5.71032 10.5416906 5.71032 13.9880969 2.96398667 13.9880969 2.96398667 7.09528437"></polygon>
+                            <path d="M3,17 L4,17" id="Stroke-6"></path>
+                            <path d="M3,19 L4,19" id="Stroke-7"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>play-button-blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Glass-Walls" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alur_web_glass_overview" transform="translate(-87.000000, -733.000000)">
+            <g id="HERO" transform="translate(0.000000, 140.000000)">
+                <g id="Group-7" transform="translate(88.000000, 427.000000)">
+                    <g id="play-button-blue" transform="translate(0.000000, 167.000000)">
+                        <g id="Group-22">
+                            <ellipse id="Oval" stroke-opacity="0.16" stroke="#333333" fill="#FFFFFF" cx="24.1061947" cy="24" rx="24.1061947" ry="24"></ellipse>
+                            <path d="M32.3418232,25.6980946 L22.0566337,32.0980198 C21.118802,32.6815825 19.8854681,32.3943907 19.3019054,31.4565589 C19.1045834,31.1394467 19,30.773417 19,30.3999252 L19,17.6000748 C19,16.4955053 19.8954305,15.6000748 21,15.6000748 C21.3734918,15.6000748 21.7395215,15.7046582 22.0566337,15.9019802 L32.3418232,22.3019054 C33.279655,22.8854681 33.5668468,24.118802 32.9832841,25.0566337 C32.8214188,25.3167641 32.6019536,25.5362293 32.3418232,25.6980946 Z" id="Triangle" stroke="#1E306E" stroke-width="2"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

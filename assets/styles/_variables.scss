@@ -1,0 +1,95 @@
+$alur-primary-color:  #ffffff;
+$alur-primary-color1: #f6f6f6;
+$alur-grey-color:     #f0f7f7;
+$alur-grey-color1:    #98bfe1;
+$alur-grey-color2:    #525252;
+$lightblue-bg:        #f7fafd;
+$alur-medium-blue:    #174a7c;
+$alur-light-blue:     #8fc2e9;
+$alur-royal-blue:     #2366a8;
+$alur-dark-grey:      #151515;
+$alur-light-blue-bg:  #f3f8fc;
+$funky-orange:        #f5715b;
+$cherry-red:          #f4354d;
+$warm-yellow:         #f2d123;
+$alur-grey:           #e5e5e5;
+$medium-grey:         #a5a8b5;
+$night-grey:          #888b95;
+$alur-light-grey:     #636466;
+$dark-grey:           #333;
+$alur-light-green:    #49B5B2;
+$alur-green:          #3E9C98;
+$alur-green1:         #2f7874;
+$alur-green2:         #255e5c;
+$brand-primary:       #1e306e;
+$dark-blue:           #131f46;
+$alur-dark-grey1:     #f9f9f9;
+$dark-grey:           #e6e6e6;
+$dark-grey1:          #adadad;
+$grey1:               #d2d2d2;
+$green:               #3E9C98;
+
+$spacer: 1rem !default;
+$spacers: () !default;
+// stylelint-disable-next-line scss/dollar-variable-default
+$spacers: map-merge(
+    (
+      0: 0,
+      1: ($spacer * .25),
+      2: ($spacer * .5),
+      3: $spacer,
+      4: ($spacer * 1.5),
+      5: ($spacer * 3),
+      6: ($spacer * 3.5),
+      7: ($spacer * 5)
+    ),
+    $spacers
+);
+
+
+// Grid breakpoints
+//
+// Define the minimum dimensions at which your layout will change,
+// adapting to different screen sizes, for use in media queries.
+
+$grid-breakpoints: (
+  sxs: 0,
+  xs:  350px,
+  sm:  576px,
+  md:  768px,
+  lg:  1009px,
+  xl:  1200px,
+  bxl: 1440px
+) !default;
+
+// Grid containers
+//
+// Define the maximum width of `.container` for different screen sizes.
+
+$container-max-widths: (
+  xs:  320px,
+  sm:  540px,
+  md:  720px,
+  lg:  960px,
+  xl:  1140px,
+  bxl: 1290px
+) !default;
+
+$screen-xs: 310px !default;
+$screen-sm: 576px !default;
+$screen-md: 768px !default;
+$screen-lg: 992px !default;
+$screen-xl: 1200px !default;
+$screen-bxl: 1440px !default;
+
+//== Typography
+//
+//## Font, line-height, and color for body text, headings, and more.
+
+$font-family-sans-serif:  "akkurat", sans-serif !default;
+$font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
+//** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
+$font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
+$font-family-base:        $font-family-sans-serif !default;
+
+$table-border-color:            $alur-grey;

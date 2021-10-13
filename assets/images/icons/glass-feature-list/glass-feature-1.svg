@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="50px" viewBox="0 0 52 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>glass-feature-1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Glass-Walls" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alur_web_glass_overview" transform="translate(-202.000000, -4319.000000)" fill="#1E306E">
+            <g id="values" transform="translate(-1.000000, 4076.000000)">
+                <g id="Group-5" transform="translate(106.000000, 224.000000)">
+                    <g id="feature_1">
+                        <g id="glass-feature-1" transform="translate(97.000000, 19.000000)">
+                            <path d="M0,29.75 L51.426,29.75 L51.426,19.824 L0,19.824 L0,29.75 Z M1.926,27.824 L49.5,27.824 L49.5,21.75 L1.926,21.75 L1.926,27.824 Z" id="Fill-1"></path>
+                            <polygon id="Fill-2" points="24.713 50 26.713 50 26.713 32.788 24.713 32.788"></polygon>
+                            <polygon id="Fill-3" points="24.713 17 26.713 17 26.713 0 24.713 0"></polygon>
+                            <polygon id="Fill-4" points="25.7129 18.4141 15.1069 7.8081 16.5209 6.3931 25.7129 15.5861 34.9049 6.3931 36.3189 7.8081"></polygon>
+                            <polygon id="Fill-5" points="34.9053 43.3936 25.7133 34.2016 16.5203 43.3936 15.1063 41.9796 25.7133 31.3726 36.3193 41.9796"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

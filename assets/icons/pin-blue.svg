@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="35px" viewBox="0 0 30 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Pin - 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Product-Glass-Walls" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alur_web_environment" transform="translate(-242.000000, -1190.000000)" stroke="#1E306E" stroke-width="2">
+            <g id="SPOT2" transform="translate(80.000000, 723.000000)">
+                <g id="Group-16" transform="translate(0.000000, 160.000000)">
+                    <g id="Group-2">
+                        <g id="Group-5" transform="translate(144.000000, 296.000000)">
+                            <g id="Pin---1" transform="translate(19.000000, 12.000000)">
+                                <path d="M23.38,3.89565217 L23.38,3.89565217 C28.63,9.11304348 28.63,17.4608696 23.45,22.6086957 L14,32 L4.55,22.6086957 C-0.63,17.4608696 -0.63,9.11304348 4.55,3.96521739 L4.62,3.89565217 C9.8,-1.25217391 18.13,-1.32173913 23.38,3.89565217 C23.31,3.82608696 23.31,3.82608696 23.38,3.89565217 Z" id="Shape"></path>
+                                <ellipse id="Oval" cx="14" cy="13.2173913" rx="3.5" ry="3.47826087"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="35px" viewBox="0 0 56 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>glass-feature-10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 35 56 35 56 0.12 0 0.12"></polygon>
+    </defs>
+    <g id="Glass-Walls" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alur_web_glass_overview" transform="translate(-1184.000000, -4499.000000)">
+            <g id="values" transform="translate(-1.000000, 4076.000000)">
+                <g id="Group-5" transform="translate(106.000000, 396.000000)">
+                    <g id="feature_4" transform="translate(1041.000000, 16.000000)">
+                        <g id="Group-20">
+                            <g id="glass-feature-10" transform="translate(38.000000, 0.000000)">
+                                <g id="Group-29" transform="translate(0.000000, 10.000000)">
+                                    <polygon id="Fill-1" fill="#1E306E" points="0 35.8799 56 35.8799 56 33.9539 0 33.9539"></polygon>
+                                    <g id="Group-17" transform="translate(0.000000, 0.879900)">
+                                        <path d="M10,26.1201 C8.346,26.1201 7,27.4661 7,29.1201 C7,30.7741 8.346,32.1201 10,32.1201 C11.654,32.1201 13,30.7741 13,29.1201 C13,27.4661 11.654,26.1201 10,26.1201 Z M10,34.1201 C7.243,34.1201 5,31.8771 5,29.1201 C5,26.3631 7.243,24.1201 10,24.1201 C12.757,24.1201 15,26.3631 15,29.1201 C15,31.8771 12.757,34.1201 10,34.1201 Z" id="Fill-2" fill="#1E306E"></path>
+                                        <path d="M28,26.1201 C26.346,26.1201 25,27.4661 25,29.1201 C25,30.7741 26.346,32.1201 28,32.1201 C29.654,32.1201 31,30.7741 31,29.1201 C31,27.4661 29.654,26.1201 28,26.1201 M28,34.1201 C25.243,34.1201 23,31.8771 23,29.1201 C23,26.3631 25.243,24.1201 28,24.1201 C30.757,24.1201 33,26.3631 33,29.1201 C33,31.8771 30.757,34.1201 28,34.1201" id="Fill-4" fill="#1E306E"></path>
+                                        <path d="M44,26.1201 C42.346,26.1201 41,27.4661 41,29.1201 C41,30.7741 42.346,32.1201 44,32.1201 C45.654,32.1201 47,30.7741 47,29.1201 C47,27.4661 45.654,26.1201 44,26.1201 M44,34.1201 C41.243,34.1201 39,31.8771 39,29.1201 C39,26.3631 41.243,24.1201 44,24.1201 C46.757,24.1201 49,26.3631 49,29.1201 C49,31.8771 46.757,34.1201 44,34.1201" id="Fill-6" fill="#1E306E"></path>
+                                        <polygon id="Fill-8" fill="#1E306E" points="6 30.1201 2 30.1201 2 8.1201 18 8.1201 18 29.1201 16 29.1201 16 10.1201 4 10.1201 4 28.1201 6 28.1201"></polygon>
+                                        <mask id="mask-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <g id="Clip-11"></g>
+                                        <polygon id="Fill-10" fill="#1E306E" mask="url(#mask-2)" points="13 30.12 24 30.12 24 28.12 13 28.12"></polygon>
+                                        <polygon id="Fill-12" fill="#1E306E" mask="url(#mask-2)" points="32 30.12 40 30.12 40 28.12 32 28.12"></polygon>
+                                        <polygon id="Fill-13" fill="#1E306E" mask="url(#mask-2)" points="53 30.1201 48 30.1201 48 28.1201 51 28.1201 51 2.1201 21 2.1201 21 29.1201 19 29.1201 19 0.1201 53 0.1201"></polygon>
+                                        <polygon id="Fill-14" fill="#1E306E" mask="url(#mask-2)" points="13 22.1201 3 22.1201 3 20.1201 11 20.1201 11 14.1201 3 14.1201 3 12.1201 13 12.1201"></polygon>
+                                        <polygon id="Fill-15" fill="#1E306E" mask="url(#mask-2)" points="35 21.12 55 21.12 55 19.12 35 19.12"></polygon>
+                                        <polygon id="Fill-16" fill="#1E306E" mask="url(#mask-2)" points="39 17.12 49 17.12 49 15.12 39 15.12"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

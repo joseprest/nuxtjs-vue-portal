@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="48px" viewBox="0 0 47 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>glass-feature-8</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Glass-Walls" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alur_web_glass_overview" transform="translate(-696.000000, -4491.000000)" stroke="#1E306E" stroke-width="2">
+            <g id="values" transform="translate(-1.000000, 4076.000000)">
+                <g id="Group-5" transform="translate(106.000000, 396.000000)">
+                    <g id="feature_3" transform="translate(492.000000, 0.000000)">
+                        <g id="Group-20" transform="translate(73.000000, 16.000000)">
+                            <g id="glass-feature-8" transform="translate(22.000000, 0.000000)">
+                                <g id="Page-1" transform="translate(5.000000, 5.000000)">
+                                    <polygon id="Stroke-1" points="0 44.05 45 44.05 45 35.05 0 35.05"></polygon>
+                                    <path d="M35.3467,19.05 C35.3517,20.793 35.7227,22.921 36.9997,25.05 C39.9997,30.05 39.9997,35.05 31.9997,35.05 C23.9997,35.05 23.9997,30.05 26.9997,25.05 C28.8257,22.008 28.7997,18.966 28.4997,17.05" id="Stroke-3"></path>
+                                    <path d="M30.4678,8.3234 C39.8648,10.6094 33.5478,19.0254 29.1738,10.0474 C33.5478,19.0254 23.0288,19.3334 27.0198,10.1104 C23.0288,19.3334 16.2298,11.3014 25.6268,8.4654 C16.2298,11.3014 18.2708,0.9774 26.0448,6.3504 C18.2708,0.9774 27.6138,-3.8646 27.9588,5.3594 C27.6138,-3.8646 37.2248,0.4234 29.9268,6.2374 C37.2248,0.4234 39.8648,10.6094 30.4678,8.3234 Z" id="Stroke-4"></path>
+                                    <path d="M35.3965,4.05 C37.1425,-0.526 43.1165,3.306 36.9265,8.237 C44.2245,2.423 46.8655,12.61 37.4675,10.323 C46.8655,12.61 40.5475,21.026 36.1735,12.047 C40.2145,20.342 31.5425,21.237 33.3475,14.05" id="Stroke-5"></path>
+                                    <polygon id="Stroke-6" points="3 35.05 21 35.05 21 30.05 3 30.05"></polygon>
+                                    <polygon id="Stroke-7" points="3 30.05 21 30.05 21 25.05 3 25.05"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

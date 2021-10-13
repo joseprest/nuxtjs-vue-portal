@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="35px" viewBox="0 0 56 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-lead-times-blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Glass-Walls" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic-lead-times-blue" transform="translate(0.000000, -1.000000)" fill="#1E306E">
+            <polygon id="Path" points="0 35.88 56 35.88 56 33.954 0 33.954"></polygon>
+            <g id="Group" transform="translate(2.000000, 0.880000)">
+                <path d="M8,26.12 C6.346,26.12 5,27.466 5,29.12 C5,30.774 6.346,32.12 8,32.12 C9.654,32.12 11,30.774 11,29.12 C11,27.466 9.654,26.12 8,26.12 Z M8,34.12 C5.243,34.12 3,31.877 3,29.12 C3,26.363 5.243,24.12 8,24.12 C10.757,24.12 13,26.363 13,29.12 C13,31.877 10.757,34.12 8,34.12 Z M26,26.12 C24.346,26.12 23,27.466 23,29.12 C23,30.774 24.346,32.12 26,32.12 C27.654,32.12 29,30.774 29,29.12 C29,27.466 27.654,26.12 26,26.12 Z M26,34.12 C23.243,34.12 21,31.877 21,29.12 C21,26.363 23.243,24.12 26,24.12 C28.757,24.12 31,26.363 31,29.12 C31,31.877 28.757,34.12 26,34.12 Z M42,26.12 C40.346,26.12 39,27.466 39,29.12 C39,30.774 40.346,32.12 42,32.12 C43.654,32.12 45,30.774 45,29.12 C45,27.466 43.654,26.12 42,26.12 Z M42,34.12 C39.243,34.12 37,31.877 37,29.12 C37,26.363 39.243,24.12 42,24.12 C44.757,24.12 47,26.363 47,29.12 C47,31.877 44.757,34.12 42,34.12 Z" id="Shape" fill-rule="nonzero"></path>
+                <polygon id="Path" points="4 30.12 0 30.12 0 8.12 16 8.12 16 29.12 14 29.12 14 10.12 2 10.12 2 28.12 4 28.12"></polygon>
+                <g id="Clipped" transform="translate(11.000000, 28.000000)" fill-rule="nonzero">
+                    <path d="M0,2.12 L11,2.12 L11,0.12 L0,0.12 L0,2.12 Z M19,2.12 L27,2.12 L27,0.12 L19,0.12 L19,2.12 Z" id="Shape"></path>
+                </g>
+                <g id="Clipped" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+                    <path d="M50,30.12 L45,30.12 L45,28.12 L48,28.12 L48,2.12 L18,2.12 L18,29.12 L16,29.12 L16,0.12 L50,0.12 L50,30.12 Z M10,22.12 L0,22.12 L0,20.12 L8,20.12 L8,14.12 L0,14.12 L0,12.12 L10,12.12 L10,22.12 Z" id="Shape"></path>
+                </g>
+                <g id="Clipped" transform="translate(33.000000, 15.000000)" fill-rule="nonzero">
+                    <path d="M0,6.12 L20,6.12 L20,4.12 L0,4.12 L0,6.12 Z M4,2.12 L14,2.12 L14,0.12 L4,0.12 L4,2.12 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
